@@ -1,0 +1,32 @@
+f(abc)
+ f(bc)
+  f(c)
+   f(NULL)
+   f(NULL)
+   print c
+    f(c)
+    f(NULL)
+    c(NULL)
+     print c
+    printb
+   f(bc)
+  print ccb
+ print a
+
+fun(5,fp)
+ fun(4,fp)
+  fun(3,fp)
+   fun(2,fp)
+   return 1
+  t=1
+  f=1+1=2
+  fp=1
+  return 2
+ t=2
+ f=2+1=3
+ fp=2
+ return 3
+t=3
+f=3+2=5
+fp=3
+return 5
